@@ -27,6 +27,6 @@ function sumar(a, b) {
   }
   
   // Ejemplo de uso:
-  const datos = [10, 20, 30, 40];
+  const datos = [10, 20, 50, 40];
   console.log("El promedio es:", calcularPromedio(datos));
   
